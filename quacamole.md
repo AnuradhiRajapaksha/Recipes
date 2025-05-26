@@ -1,4 +1,4 @@
-# Guacamole
+ Guacamole
 
 ## Ingredients
 * avacado (1.23)
@@ -6,4 +6,4 @@
 * salt (2)
 
 ## Instructions
-* peel the avacados
+* peel the avacados and  put them into a bowl.
